@@ -33,7 +33,10 @@ Your friendly neighborhood QA Automation Engineer. I'm here to make sure bugs an
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrum-alliance&logoColor=white&style=flat-square)
+## Automations
+
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 
 ## Details
 If you're interested in working together or have any questions, feel free to reach out. I'm always eager to connect with fellow developers and collaborate on exciting projects. Let's build something amazing together!
